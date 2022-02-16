@@ -1,5 +1,6 @@
-Hello World sadja 
+Hello World
 
-Oleh : Arief Kurniawan
-Tanggal : 16-02-2022
-Tempat : Rumah Warga Biasa
+Deskripsi : Kalimat singkat pada saat belajar pemrograman
+Dibuat oleh : Arief Kurniawan
+Tempat dibuat : Bandung
+
